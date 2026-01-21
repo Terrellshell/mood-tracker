@@ -43,13 +43,13 @@ def read_recent_moods(filename=LOG_FILE, days=7):
 
 def get_message(average_mood):
     if average_mood is None:
-        return "No data yet. Today is Mood Day Zero."
+        return "Direct thrusters to main mood ring for analysis."
     if average_mood < 2:
-        return "Rough stretch. Be gentle with yourself."
+        return "When the going gets tough, the tough get going."
     elif average_mood < 3.5:
-        return "Holding steady. Small wins still count."
+        return "Holding steady. Built by tenacity and resiliance."
     else:
-        return "Trend is up. Keep riding that wave."
+        return "Aint no stopping you now."
 
 def main():
     raw = input("Enter today's mood (1-5): ")

@@ -9,3 +9,7 @@ The average accumalation of entries seems to working great
 - [] Improve styling on the dashboard
 - [] Add sample output to README
 - [] Explore turning this into a small API
+
+## Sample Output
+Enter today's mood (1-5): 4
+Your 7-day average mood is: 3.57 Trend is up. Keep riding that wave.

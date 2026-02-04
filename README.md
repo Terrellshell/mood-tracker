@@ -13,3 +13,5 @@ The average accumalation of entries seems to working great
 ## Sample Output
 Enter today's mood (1-5): 4
 Your 7-day average mood is: 3.57 Trend is up. Keep riding that wave.
+
+![Last Updated](https://img.shields.io/badge/Last_Updated-Today-brightgreen)

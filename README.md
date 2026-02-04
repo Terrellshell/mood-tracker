@@ -14,4 +14,12 @@ The average accumalation of entries seems to working great
 Enter today's mood (1-5): 4
 Your 7-day average mood is: 3.57 Trend is up. Keep riding that wave.
 
+## ✨ Features
+
+- Logs daily mood entries to a CSV file
+- Calculates 7‑day average mood
+- Provides trend feedback based on recent entries
+- Includes a separate analysis script for summaries
+- Publishes a live dashboard using GitHub Pages
+
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Today-brightgreen)
